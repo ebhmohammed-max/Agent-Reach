@@ -1,3 +1,5 @@
+> **Status: archival.** As of v3 this video no longer carries on-screen or spoken qualifications, at your direction. This document is kept as a private record of what is accurate and what is invented, for your reference only. Do not add it to the video.
+
 # Video 03 — factual review against sources
 
 Reviewed for the *Human Before* Schöningen episode. Two findings are significant enough to require changes before publication; the rest are confirmations or precision fixes.

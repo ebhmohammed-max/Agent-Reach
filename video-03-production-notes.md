@@ -1,5 +1,7 @@
 # Video 03 production notes
 
+**Direction changed (v3): story first, not lecture.** The video now opens on a modern night walk, names its main character Renn, and speaks directly to the viewer. No spoken or on-screen disclaimers, no "this is imagined" lines, no evidence labels, no hedging. Previous versions v1/v2 are superseded.
+
 The current cut is a **rough opening**, not a publication-ready video. The imagined Schöningen encounter must remain clearly distinguished from archaeological evidence.
 
 - [150-second rough cut](https://drive.google.com/file/d/1POS2kV12y3zXpybGNPNX-ZhcHlIDJmMU/view)
@@ -14,8 +16,8 @@ The source archive for each segment may depend on earlier cuts and the narration
 
 - **Script revised (v2) and narration re-recorded.** The script now uses a 200,000–300,000-year range, names *Homotherium latidens* from the site, and names *Paranthropus robustus*. Narration v2 part 1 runs 5:37.35 and covers everything except the closing passage. The old 5:59.59 cut is timed to the **old** narration and is now out of sync.
 - **Factual review complete — two required changes.** See [`video-03-factual-review.md`](video-03-factual-review.md). The ~300,000-year date has been revised to ~200,000 years (Hutson et al. 2025), and the episode omits the *Homotherium* evidence from the site itself. The current mountain-lion artwork is the wrong animal.
-- Current draft: [`video-03-draft-v2-396s.mp4`](https://drive.google.com/file/d/1XaMUUru9oKqhExaCnyJaiVs7HROvwdvD/view), 6:36.59, timed to [`narration v2`](https://drive.google.com/file/d/1Dt7ksEoWzVk_rx7KZ_AfFO4bD0P5Ea0f/view). The closing section is rebuilt and cat-free; **0:00–5:00 is still timed to the withdrawn v1 narration**. See [`video-03-beat-sheet.md`](video-03-beat-sheet.md).
-- Superseded: `video-03-full-draft-360s.mp4` (5:59.59, v1 narration). Do not publish.
+- Current draft: [`video-03-draft-v3.mp4`](https://drive.google.com/file/d/1illBWgO7KOX4SzuEAI5RzXaEUbBdeQUU/view), 5:08.79, timed to [`narration v3`](https://drive.google.com/file/d/1-wXPE5G2rk-9P1yYsubpYyTqBhMpASFH/view). Story-first rewrite with modern-day hook. See [`video-03-beat-sheet.md`](video-03-beat-sheet.md).
+- Superseded: v1 (5:59.59) and v2 (6:36.59). Both are evidence-led with disclaimers and do not match the current direction.
 - Listen to the narration, including pronunciation, and review visual timing and continuity.
 - Picture now covers the full draft narration; timing still needs a listening pass against the beat sheet.
 - Review captions and other publication materials before release. Neither the script nor narration should be treated as approved.
