@@ -12,7 +12,8 @@ The source archive for each segment may depend on earlier cuts and the narration
 
 ## Outstanding review
 
-- Review the script and verify its sources and factual qualifications.
+- **Factual review complete — two required changes.** See [`video-03-factual-review.md`](video-03-factual-review.md). The ~300,000-year date has been revised to ~200,000 years (Hutson et al. 2025), and the episode omits the *Homotherium* evidence from the site itself. The current mountain-lion artwork is the wrong animal.
+- Full-length picture draft: [`video-03-full-draft-360s.mp4`](https://drive.google.com/file/d/1qzYkXtOzO7VQvUZKmQFF5JKPEba58_1m/view), 5:59.59, matching the draft narration. Provisional — see [`video-03-beat-sheet.md`](video-03-beat-sheet.md).
 - Listen to the narration, including pronunciation, and review visual timing and continuity.
-- Continue the cut beyond 2:30; the full draft narration runs approximately six minutes.
+- Picture now covers the full draft narration; timing still needs a listening pass against the beat sheet.
 - Review captions and other publication materials before release. Neither the script nor narration should be treated as approved.
