@@ -1,7 +1,7 @@
 # Video 03 — picture beat sheet
 
-**Current cut:** `video-03-draft-v3.mp4`, 5:08.79, timed to `video-03-narration-v3.mp3`.
-**Superseded:** v1 (5:59.59) and v2 (6:36.59). Do not publish either.
+**Current cut:** `video-03-draft-v4.mp4`, 5:08.79, timed to `video-03-narration-v3.mp3`. 66 shots from 40 drawings.
+**Superseded:** v1, v2 and v3. Do not publish any of them.
 
 Direction (v3): story first. Modern-night hook, named characters, direct address to the viewer. **No disclaimers, no evidence labels, no hedging anywhere in the video.**
 
@@ -25,4 +25,5 @@ Direction (v3): story first. Modern-night hook, named characters, direct address
 - **The cat is *Homotherium***, described accurately in narration: heavy shoulders, long forelimbs, protruding upper canines. Drawn as such in `v3-10`.
 - **No animal is labelled**, per the new direction. That is why the cat had to be drawn correctly rather than approximated.
 - Timing set from the measured narration block durations; verify by listening.
-- Still outstanding: listening pass, caption review, and the middle-section image variety is thinner than the earlier cuts.
+- Variety pass done in v4: added Sena gutting the fish, Tep, the cat's teeth, the deer bolting, the cat leaving, and the night walk home.
+- Still outstanding: listening pass and caption sync check.
