@@ -12,6 +12,7 @@ The source archive for each segment may depend on earlier cuts and the narration
 
 ## Outstanding review
 
+- **Script revised (v2) and narration re-recorded.** The script now uses a 200,000–300,000-year range, names *Homotherium latidens* from the site, and names *Paranthropus robustus*. Narration v2 part 1 runs 5:37.35 and covers everything except the closing passage. The old 5:59.59 cut is timed to the **old** narration and is now out of sync.
 - **Factual review complete — two required changes.** See [`video-03-factual-review.md`](video-03-factual-review.md). The ~300,000-year date has been revised to ~200,000 years (Hutson et al. 2025), and the episode omits the *Homotherium* evidence from the site itself. The current mountain-lion artwork is the wrong animal.
 - Full-length picture draft: [`video-03-full-draft-360s.mp4`](https://drive.google.com/file/d/1qzYkXtOzO7VQvUZKmQFF5JKPEba58_1m/view), 5:59.59, matching the draft narration. Provisional — see [`video-03-beat-sheet.md`](video-03-beat-sheet.md).
 - Listen to the narration, including pronunciation, and review visual timing and continuity.
